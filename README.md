@@ -1,1 +1,1 @@
-# gh-pages-sample
+# study-git
